@@ -77,13 +77,11 @@ datasets/
   │   └── labels/       # SC/CSF masks
   └── private/
       ├── images/       # Clinical MRIs
-      └── labels/       # Manual annotations
+      └── labels/       # SC/CSF masks
 ```
 
 #### Preprocessing
 ```bash
-# Segment SC/CSF using nnUNet
-python datasets/nnunet_segment.py --input_dir datasets/public/images --output_dir datasets/public/labels
 
 # Convert to numpy arrays
 python datasets/preprocess_public.py  # Public data
