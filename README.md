@@ -144,11 +144,14 @@ Signal intensity distributions of different regions in the pseudo-anomaly datase
 ## 📜 Citation
 
 ```bibtex
-@article{zhang2025u2ad,
-  title={U²AD: Uncertainty-guided Unsupervised Anomaly Detection for T2 Hyperintensity in Spinal Cord MRI},
-  author={Zhang, Qi and Chen, Xiuyuan and He, Ziyi and Wang, Kun and Wu, Lianming and Shen, Hongxing and Sun, Jianqi},
-  journal={arXiv preprint arXiv:XXXX.XXXX},
-  year={2025}
+@misc{zhang2025u2aduncertaintybasedunsupervisedanomaly,
+      title={U2AD: Uncertainty-based Unsupervised Anomaly Detection Framework for Detecting T2 Hyperintensity in MRI Spinal Cord}, 
+      author={Qi Zhang and Xiuyuan Chen and Ziyi He and Kun Wang and Lianming Wu and Hongxing Shen and Jianqi Sun},
+      year={2025},
+      eprint={2503.13400},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2503.13400}, 
 }
 ```
 
