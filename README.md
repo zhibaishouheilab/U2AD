@@ -154,6 +154,9 @@ Signal intensity distributions of different regions in the pseudo-anomaly datase
 }
 ```
 
+## Acknowledgement
+Thanks for the datasets: [openneuro dataset](https://openneuro.org/datasets/ds004616/versions/1.0.0) and [Spine Generic dataset](https://spine-generic.readthedocs.io/).
+
 ## 📧 Contact
 If you have any questions about the codes or paper, please let us know via [zhi-bai-shou-hei@sjtu.edu.cn](zhi-bai-shou-hei@sjtu.edu.cn).
 
